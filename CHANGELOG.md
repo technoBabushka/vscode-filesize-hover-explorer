@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.2 (2025-12-02)
+
+- Upgraded vulnerable dependencies
+
 ## 1.0.1 (2024-11-10)
 
 - Fixed extension not activating
